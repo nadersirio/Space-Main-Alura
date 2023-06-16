@@ -1,12 +1,14 @@
 import Styles from "./header.module.scss";
+import logo from "../../assets/logo.png";
+import search from "../../assets/search.png";
 
 export const Header = () => {
   return (
     <header className={Styles.header}>
-      <img src="/assets/logo.png" alt="Logo Alura Space" />
+      <img src={logo} alt="Logo Alura Space" />
       <div className={Styles.header__container}>
         <input type="text" className={Styles.header__input} placeholder="What are you looking for?" />
-        <img src="/assets/search.png" alt="Search Icon" />
+        <img src={search} alt="Search Icon" />
       </div>
     </header>
   )
