@@ -1,4 +1,5 @@
 import MainPageBanner from "../MainPageBanner";
+import Footer from "../footer";
 import { Header } from "../header/index";
 
 export const HomePage = () => {
@@ -6,6 +7,7 @@ export const HomePage = () => {
     <>
       <Header />
       <MainPageBanner />
+      <Footer />
     </>
   )
 }
