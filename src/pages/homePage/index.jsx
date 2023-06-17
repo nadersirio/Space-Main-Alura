@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 import MainPageBanner from "../MainPageBanner";
-import Footer from "../footer";
 import { Header } from "../header/index";
 =======
 import { Header } from "../header/index"
@@ -17,6 +16,7 @@ export const HomePage = () => {
 <<<<<<< HEAD
 <<<<<<< HEAD
       <MainPageBanner />
+<<<<<<< HEAD
       <Footer />
 =======
       <h1> oie </h1>
@@ -24,6 +24,8 @@ export const HomePage = () => {
 =======
       <h1> oie </h1>
 >>>>>>> parent of b756a64 (att-1.3)
+=======
+>>>>>>> parent of 61d2e4f (att-1.4)
     </>
   )
 }
