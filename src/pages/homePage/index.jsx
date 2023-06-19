@@ -1,6 +1,6 @@
 import MainPageBanner from "../MainPageBanner";
-import Footer from "../footer";
-import { Header } from "../header/index";
+import Footer from "../Footer";
+import { Header } from "../Header/index";
 
 export const HomePage = () => {
   return (
