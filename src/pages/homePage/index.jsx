@@ -1,6 +1,6 @@
-import MainPageBanner from "../MainPageBanner";
-import Footer from "../Footer";
-import { Header } from "../Header/index";
+import MainPageBanner from "../../components/MainPageBanner";
+import Footer from "../../components/Footer";
+import { Header } from "../../components/Header/index";
 
 export const HomePage = () => {
   return (

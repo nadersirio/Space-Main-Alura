@@ -1,7 +1,7 @@
 import React from 'react'
 import Styles from "./menuPage.module.scss";
 import icons from './icons.json';
-import Icon from '../Icon';
+import Icon from '../../components/Icon';
 
 export default function MenuPage() {
   return (
