@@ -1,6 +1,7 @@
 import React from 'react';
 import PopularPhotos from './popular-photos.json';
 import Styles from './Popular.module.scss';
+import Button from 'components/Button';
 
 export default function Popular() {
   return (
@@ -13,7 +14,7 @@ export default function Popular() {
           )
         })}
       </ul>
-      <button>See More</button>
+      <Button> See more </Button>
     </asides>
   )
 }

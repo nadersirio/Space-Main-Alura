@@ -1,72 +1,72 @@
-export const photos = [
+[
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-1.png",
     "id": "1",
-    "tag": "Galáxias"
+    "tag": "Gallaxy"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-2.png",
     "id": "2",
-    "tag": "Estrelas"
+    "tag": "Stars"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-3.png",
     "id": "3",
-    "tag": "Lua"
+    "tag": "Moon"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-4.png",
     "id": "4",
-    "tag": "Galáxias"
+    "tag": "Gallaxy"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-5.png",
     "id": "5",
-    "tag": "Estrelas"
+    "tag": "Stars"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-6.png",
     "id": "6",
-    "tag": "Nebulosas"
+    "tag": "Nebulae"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-7.png",
     "id": "7",
-    "tag": "Galáxias"
+    "tag": "Gallaxy"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-8.png",
     "id": "8",
-    "tag": "Nebulosas"
+    "tag": "Nebulae"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-9.png",
     "id": "9",
-    "tag": "Estrelas"
+    "tag": "Stars"
   },
   {
-    "title": "Nome da Foto",
+    "title": "Photo Name",
     "credits": "Alura Space",
     "image": "foto-10.png",
     "id": "10",
-    "tag": "Estrelas"
+    "tag": "Stars"
   }
 ]
