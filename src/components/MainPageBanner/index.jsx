@@ -3,6 +3,7 @@ import Styles from './homePage.module.scss'
 import MenuPage from '../MenuPage'
 import banner from '../../assets/banner.png'
 import Gallery from '../Gallery'
+import Popular from '../Popular'
 
 export default function MainPageBanner() {
   return (
@@ -15,8 +16,11 @@ export default function MainPageBanner() {
             <img src={banner} alt="Space Banner" />
           </div>
         </section>
+        <div className={Styles.gallery}>
+          <Gallery />
+          <Popular />
+        </div>
       </main>
-      <Gallery />
     </>
   )
 }
