@@ -18,7 +18,7 @@ export default function Footer() {
         <a href="/"><img src={instagramImg} alt="Instagram Icon"/></a>
         </li>
       </ul>
-      <span>Desenvolvimento por Alura.</span>
+      <span>Desenvolvimento por <a href="https://github.com/nadersirio">Náder W. S. Sírio</a>.</span>
     </footer>
   )
 }
